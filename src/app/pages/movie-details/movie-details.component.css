@@ -1,0 +1,21 @@
+img{
+    width:100%;
+    height: auto;
+}
+h1{
+    color: aliceblue;
+    font-weight: bolder;
+}
+p{
+    color: antiquewhite;
+}
+a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(6, 6, 6);
+    color: white;
+    border:1px solid white;  
+}

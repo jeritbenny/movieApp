@@ -1,0 +1,14 @@
+button{
+    background-color: red;
+    color: aliceblue;
+}
+button:hover{
+    background-color: red;
+    color: aliceblue;
+}
+img{
+    width: 100%;
+}
+h5{
+    color: aliceblue;
+}
